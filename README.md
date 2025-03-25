@@ -1,6 +1,5 @@
-<img src="text-3249.gif" alt="loading" style="width: 1000px; height: 350px;">
-<h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
-<h3 align="center">A passionate Full Stack Python Web Developer from India👇</h3>
+
+<img src="text-3249.gif" alt="loading" style="width: 1000px; height: 350px;"><br><h1 align="center">Hi 👋, I'm Ashish Gupta</h1><br><h3 align="center">A passionate Full Stack Python Web Developer from India👇
 
 
 ## 🌐 Socials:
@@ -13,6 +12,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=ashish9630&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ashish9630&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish9630&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ashish9630&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ashish9630&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashish9630&icon=0&color=0)](https://visitcount.itsvg.in)
