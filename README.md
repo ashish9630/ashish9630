@@ -1,5 +1,5 @@
 <img src="Branding Development GIF by Profound.gif" alt="loading" style="width: 1000px; height: 350px;">
-<h1 align="center">Hi 👋, I'm Ashish Gupta</h1><br><h3 align="center">A passionate Full Stack Python Web Developer from India👇
+<h1 align="center">Hi 👋, I'm Ashish Gupta</h1><br><h3 align="center">A passionate FullStack Python/Django Developer
 
 
 ## 🌐 Socials:
